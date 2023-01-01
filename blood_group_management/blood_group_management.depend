@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1672552299 source:e:\c programming\blood_group_management\blood group management.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"splash.h"
+	"login.h"
+	"manage.h"
+	"menu.h"
+
+1672552670 e:\c programming\blood_group_management\splash.h
+
+1672551560 e:\c programming\blood_group_management\login.h
+
+1672551860 e:\c programming\blood_group_management\manage.h
+
+1672551099 e:\c programming\blood_group_management\menu.h
+
